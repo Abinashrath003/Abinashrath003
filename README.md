@@ -7,10 +7,10 @@
 - 🎓 I'm currently pursuing **Computer Science and Engineering**  
 - 🧠 Learning **Embedded Systems, Java, Full Stack Development, and Machine Learning**  
 - 🌱 Currently working on:
-  - Stock Management System (Java → Swing)
-  - Employee Management System (C with file handling)
+  - FairShare
+  - CallOut
 - 💡 I love solving real-world problems and building full-stack projects  
-- 🏆 CGPA: `9.02`
+- 🏆 CGPA: `9.11`
 
 ---
 
@@ -46,7 +46,6 @@
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
 | 🧾 Stock Management System | Java (Swing + JDBC) | A complete desktop app for stock handling, being ported to web |
-|  |
 | 👨‍💼 Employee Management System | C with File Handling | Terminal-based EMS with login, attendance, and payroll |
 | 🤖 Machine Learning Mini Projects | Python, Scikit-learn | Simple ML projects to demonstrate foundational concepts |
 
