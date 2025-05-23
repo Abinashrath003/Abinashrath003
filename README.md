@@ -7,8 +7,7 @@
 - 🎓 I'm currently pursuing **Computer Science and Engineering**  
 - 🧠 Learning **Embedded Systems, Java, Full Stack Development, and Machine Learning**  
 - 🌱 Currently working on:
-  - Stock Management System (Java → Web)
-  - Vendor Management System (Node.js + MySQL)
+  - Stock Management System (Java → Swing)
   - Employee Management System (C with file handling)
 - 💡 I love solving real-world problems and building full-stack projects  
 - 🏆 CGPA: `9.02`
@@ -47,7 +46,7 @@
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
 | 🧾 Stock Management System | Java (Swing + JDBC) | A complete desktop app for stock handling, being ported to web |
-| 📦 Vendor Management System | Node.js, MySQL, HTML/CSS | Modern vendor tracking & inventory control system |
+|  |
 | 👨‍💼 Employee Management System | C with File Handling | Terminal-based EMS with login, attendance, and payroll |
 | 🤖 Machine Learning Mini Projects | Python, Scikit-learn | Simple ML projects to demonstrate foundational concepts |
 
@@ -64,7 +63,6 @@
 ### 🧠 Fun Facts
 - 🔐 I’m also exploring Cybersecurity & Cryptography  
 - 🧩 Love puzzles, debugging, and learning new tools  
-- 📅 I make consistent contributions every week
 
 ---
 
