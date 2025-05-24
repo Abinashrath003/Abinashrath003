@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently pursuing **Computer Science and Engineering**  
-- 🧠 Learning **Embedded Systems, Java, Full Stack Development, and Machine Learning**  
+- 🧠 Learning **Java DSA, Full Stack Development, and Machine Learning**  
 - 🌱 Currently working on:
   - FairShare
   - CallOut
