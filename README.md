@@ -68,7 +68,7 @@
 |--------|-----------|-------------|
 | 🧾 Stock Management System | Java (Swing + JDBC) | A complete desktop app for stock handling, being ported to web |
 | 👨‍💼 Employee Management System | C with File Handling | Terminal-based EMS with login, attendance, and payroll |
-| 🤖 Machine Learning Mini Projects | Python, Scikit-learn | Simple ML projects to demonstrate foundational concepts |
+
 
 ---
 
